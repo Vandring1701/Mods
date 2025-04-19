@@ -1,9 +1,9 @@
 {
-    "name": "test",
-    "description": "test",
+    "name": "VergilChair",
     "version_number": "1.0.0",
+    "website_url": "https://github.com/Vandring1701/Mods",
+    "description": "Adds Vergil plastic chair as a valuable",
     "dependencies": [
         "Zehs-REPOLib-2.0.1"
-    ],
-    "website_url": "https://github.com/Vandring1701/Mods"
+    ]
 }
