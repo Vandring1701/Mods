@@ -1,4 +1,4 @@
-**HuhCat Valuable, created by a dough burrito**
+**Vergil plastic chair, created by Vandring**
 
 ## Releases
 
