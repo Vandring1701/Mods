@@ -1,0 +1,9 @@
+{
+    "name": "PeakToBeachFix",
+    "description": "A supporting mod that fixes the Peak To Beach mode of the mod PEAKapalooza",
+    "version_number": "1.0.0",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.75301"
+    ],
+    "website_url": "https://github.com/Vandring1701/Mods"
+}
